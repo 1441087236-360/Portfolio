@@ -1088,7 +1088,7 @@ body.dark-theme .section-bg-footer {
   padding: 1.5rem;
   border-radius: .5rem;
   border: var(--border-4);
-  background: linear-gradient(black, black) padding-box,
+  background: linear-gradient(var(--icon-portfolio), var(--icon-portfolio)) padding-box,
               linear-gradient(to bottom right, black, var(--first-color), white) border-box;
 }
 .services__modal-services{
